@@ -5,7 +5,7 @@ import {
     handleSearchEnter,
     handleSearchInput,
     handleTemptUnitButtonClick,
-} from './eventHandler.js';
+} from './eventHandler';
 
 const temperatureBtnContainer = document.getElementById(
     "temp-button-container",
